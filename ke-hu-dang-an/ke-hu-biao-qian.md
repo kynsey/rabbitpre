@@ -32,7 +32,7 @@ description: >-
 
 【举例】安卓用户、苹果用户、苹果最新机型用户
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 #### 年龄阶段
 
@@ -42,7 +42,7 @@ description: >-
 
 【举例】90后、80后、00后
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### 行为标签（基于用户行为数据提取的模型标签）
 
@@ -62,7 +62,7 @@ description: >-
 
 【举例】可连接手机号客户、高度可连接客户
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 #### 互动积极性
 
@@ -72,7 +72,7 @@ description: >-
 
 【举例】高度活跃客户、中度活跃客户、7天内高度活跃
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 #### 转化意向度
 
@@ -86,7 +86,7 @@ description: >-
 
 【举例】高度意向客户、中度意向客户、公众号活跃客户
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 #### 传播影响力
 
@@ -96,7 +96,7 @@ description: >-
 
 【举例】KOL、KOC
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### 营销标签（基于用户与系统渠道发生交互提取的标签）
 
@@ -106,7 +106,7 @@ description: >-
 
 【举例】杭州门店（18）、A某（10）
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ### 内容标签（基于用户与营销内容发生交互提取的标签）
 
@@ -118,7 +118,7 @@ description: >-
 
 【举例】新品宣导、线下会议邀请
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 #### 内容访问频次
 
@@ -138,7 +138,7 @@ description: >-
 
 【举例】早读一族、夜猫一族
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 #### 运营标签
 
@@ -147,4 +147,38 @@ description: >-
 【举例】目标客户、高级客户、重点关注客户
 
 ![](../.gitbook/assets/image%20%282%29.png)
+
+## 客户标签面板说明
+
+### 更新规则
+
+1）每日凌晨三点更新最新标签数据
+
+2）编辑或者删除标签后，系统⾃动在下⼀个计算周期内执⾏新的标签规则，按规则将符合条件的⽤户打上相应的标签，以及将不再符合规则的⽤户⾝上的标签⾃动消失。
+
+### 导出标签
+
+右上角导出Excel，维度如下
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
+### 编辑
+
+选择右上角新建标签或点击已建好的标签右下角编辑
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+![](../.gitbook/assets/image%20%2819%29.png)
+
+### 删除
+
+点击某设好的标签，右下角删除标签
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+
+
+### 
+
+
 
