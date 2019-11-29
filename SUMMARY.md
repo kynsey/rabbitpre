@@ -2,6 +2,7 @@
 
 * [营销云产品帮助中心](README.md)
 * [基础设施](untitled/README.md)
+  * [组织架构与权限](untitled/zu-zhi-jia-gou-yu-quan-xian.md)
   * [工作台公众号授权](untitled/gong-zuo-tai-gong-zhong-hao-shou-quan.md)
   * [小程序申请及授权流程](untitled/xiao-cheng-xu-shen-qing-liu-cheng.md)
 * [内容管理](nei-rong-guan-li/README.md)
@@ -32,8 +33,6 @@
     * [登录](nei-rong-ying-xiao-xiao-cheng-xu/yi-dong-duan-cao-zuo-zhi-nan/deng-lu.md)
     * [编辑](nei-rong-ying-xiao-xiao-cheng-xu/yi-dong-duan-cao-zuo-zhi-nan/bian-ji.md)
 * [全员营销小程序](quan-yuan-ying-xiao-xiao-cheng-xu/README.md)
-  * [小程序的含义及作用](quan-yuan-ying-xiao-xiao-cheng-xu/xiao-cheng-xu-de-han-yi-ji-zuo-yong.md)
-  * [权限设置](quan-yuan-ying-xiao-xiao-cheng-xu/quan-xian-she-zhi.md)
   * [移动端操作指南](quan-yuan-ying-xiao-xiao-cheng-xu/yi-dong-duan-cao-zuo-zhi-nan.md)
 * [流程自动化](liu-cheng-zi-dong-hua/README.md)
   * [流程管理](liu-cheng-zi-dong-hua/liu-cheng-guan-li.md)
