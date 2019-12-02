@@ -1,10 +1,7 @@
 # Table of contents
 
 * [营销云产品帮助中心](README.md)
-* [基础设施](untitled/README.md)
-  * [组织架构与权限](untitled/zu-zhi-jia-gou-yu-quan-xian.md)
-  * [工作台公众号授权](untitled/gong-zuo-tai-gong-zhong-hao-shou-quan.md)
-  * [小程序申请及授权流程](untitled/xiao-cheng-xu-shen-qing-liu-cheng.md)
+* [基础设施](untitled.md)
 * [内容管理](nei-rong-guan-li/README.md)
   * [翻页/长页H5](nei-rong-guan-li/fan-ye-chang-ye-h5.md)
   * [短视频](nei-rong-guan-li/duan-shi-pin.md)
@@ -13,13 +10,7 @@
   * [文章管理](nei-rong-guan-li/wen-zhang-guan-li.md)
   * [外部作品](nei-rong-guan-li/wai-bu-zuo-pin.md)
   * [内容数据](nei-rong-guan-li/nei-rong-shu-ju.md)
-* [客户档案](ke-hu-dang-an/README.md)
-  * [客户列表](ke-hu-dang-an/ke-hu-lie-biao.md)
-  * [客户动态](ke-hu-dang-an/ke-hu-dong-tai.md)
-  * [客户详情](ke-hu-dang-an/ke-hu-xiang-qing.md)
-  * [客户标签](ke-hu-dang-an/ke-hu-biao-qian.md)
-  * [客户分组](ke-hu-dang-an/ke-hu-fen-zu.md)
-  * [客户触达](ke-hu-dang-an/ke-hu-chu-da.md)
+* [客户档案](ke-hu-dang-an.md)
 * [渠道管理](qu-dao-guan-li/README.md)
   * [员工渠道](qu-dao-guan-li/yuan-gong-qu-dao/README.md)
     * [员工任务分发](qu-dao-guan-li/yuan-gong-qu-dao/yuan-gong-ren-wu-fen-fa.md)
@@ -52,7 +43,19 @@
   * [Untitled](tuzhan/untitled-2.md)
 * [Untitled](untitled-1.md)
 
-## rabbitpre <a id="1111"></a>
+## 基础设施 <a id="1111"></a>
 
-* [Untitled](1111/untitled.md)
+* [工作台公众号授权](1111/gong-zuo-tai-gong-zhong-hao-shou-quan.md)
+* [小程序申请及授权流程](1111/xiao-cheng-xu-shen-qing-liu-cheng.md)
+* [组织架构与权限](1111/zu-zhi-jia-gou-yu-quan-xian.md)
+
+## 客户档案 <a id="ke-hu-dang-an-1"></a>
+
+* [客户列表](ke-hu-dang-an-1/ke-hu-lie-biao.md)
+* [客户动态](ke-hu-dang-an-1/ke-hu-dong-tai.md)
+* [客户标签](ke-hu-dang-an-1/ke-hu-biao-qian.md)
+* [客户详情](ke-hu-dang-an-1/ke-hu-xiang-qing.md)
+* [客户分组](ke-hu-dang-an-1/ke-hu-fen-zu.md)
+* [客户触达](ke-hu-dang-an-1/ke-hu-chu-da.md)
+* [Untitled](ke-hu-dang-an-1/untitled.md)
 
