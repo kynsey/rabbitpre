@@ -46,6 +46,8 @@
   * [小程序模版消息](su-cai-guan-li/xiao-cheng-xu-mo-ban-xiao-xi.md)
   * [手机短信模版](su-cai-guan-li/shou-ji-duan-xin-mo-ban.md)
   * [微信文章](su-cai-guan-li/wei-xin-wen-zhang.md)
-* [常见问题帮助](chang-jian-wen-ti-bang-zhu.md)
-* [（忽略）可直接跳转的设置](https://www.rabbitpre.com)
+
+## 产品功能迭代记录 <a id="chan-pin-gong-neng-geng-xin-die-dai-li-shi-ji-lu"></a>
+
+* [产品版本动态](chan-pin-gong-neng-geng-xin-die-dai-li-shi-ji-lu/chan-pin-ban-ben-dong-tai.md)
 
