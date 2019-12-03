@@ -22,7 +22,7 @@ description: >-
 
 【举例】⼀线城市 华南区域 重点经销区域 广东区域
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 #### 手机机型
 
@@ -32,7 +32,7 @@ description: >-
 
 【举例】安卓用户、苹果用户、苹果最新机型用户
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 #### 年龄阶段
 
@@ -42,7 +42,7 @@ description: >-
 
 【举例】90后、80后、00后
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ### 行为标签（基于用户行为数据提取的模型标签）
 
@@ -62,7 +62,7 @@ description: >-
 
 【举例】可连接手机号客户、高度可连接客户
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 #### 互动积极性
 
@@ -72,7 +72,7 @@ description: >-
 
 【举例】高度活跃客户、中度活跃客户、7天内高度活跃
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 #### 转化意向度
 
@@ -86,7 +86,7 @@ description: >-
 
 【举例】高度意向客户、中度意向客户、公众号活跃客户
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 #### 传播影响力
 
@@ -96,7 +96,7 @@ description: >-
 
 【举例】KOL、KOC
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 ### 营销标签（基于用户与系统渠道发生交互提取的标签）
 
@@ -106,7 +106,7 @@ description: >-
 
 【举例】杭州门店（18）、A某（10）
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 ### 内容标签（基于用户与营销内容发生交互提取的标签）
 
@@ -118,7 +118,7 @@ description: >-
 
 【举例】新品宣导、线下会议邀请
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 #### 内容访问频次
 
@@ -128,7 +128,7 @@ description: >-
 
 【举例】⻓期⾼频浏览 、内容访问频繁
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 #### 阅读时间习惯
 
@@ -138,7 +138,7 @@ description: >-
 
 【举例】早读一族、夜猫一族
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 #### 运营标签
 
@@ -146,7 +146,7 @@ description: >-
 
 【举例】目标客户、高级客户、重点关注客户
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## 客户标签面板说明
 
@@ -160,21 +160,21 @@ description: >-
 
 右上角导出Excel，维度如下
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 ### 编辑
 
 选择右上角新建标签或点击已建好的标签右下角编辑
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 ### 删除
 
 点击某设好的标签，右下角删除标签
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 
 
