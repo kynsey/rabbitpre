@@ -22,9 +22,10 @@
   
   
 ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201801/25/154423nccqqcbchb3hej2z.png) ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201801/25/154426xa9i8t66d080pp8i.png)  
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201801/25/154425wrur339rlqqrruw3.png) ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201801/25/154426s3odnje5e2dpfj3j.png)  
-**编辑文本**  
-  
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201801/25/154425wrur339rlqqrruw3.png) ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201801/25/154426s3odnje5e2dpfj3j.png)\*\*\*\*
+
+### **编辑文本**
+
 1.替换模板文本：双击文本框即可编辑  
 2.新建文本：点击上方菜单【文字】，即可双击编辑  
 3.文本设置：可按照需求设置文字大小、字体、颜色、行距字距等  
