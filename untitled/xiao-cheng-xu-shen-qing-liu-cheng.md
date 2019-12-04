@@ -28,7 +28,7 @@
 
 ![](../.gitbook/assets/image%20%2837%29.png)
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 3\) 填写小程序账号信息
 
