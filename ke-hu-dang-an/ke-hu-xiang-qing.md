@@ -44,9 +44,9 @@ description: 可在此页⾯查看某个客户的客户详情
 
 最近访问地区：访问内容的地区或者微信主动上报的地区。
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 ### 客户标签
 
@@ -120,5 +120,5 @@ description: 可在此页⾯查看某个客户的客户详情
 
  触达详情：展示触达的详细内容。根据消息类型不同，显示的触达详情也不同
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
