@@ -2,15 +2,15 @@
 
 ### 员工端接收任务
 
-![&#x4F01;&#x4E1A;&#x5FAE;&#x4FE1;&#x9996;&#x9875;                                                    &#x6536;&#x5230;&#x4EFB;&#x52A1;&#x901A;&#x77E5;](../.gitbook/assets/image%20%2899%29.png)
+![&#x4F01;&#x4E1A;&#x5FAE;&#x4FE1;&#x9996;&#x9875;                                                    &#x6536;&#x5230;&#x4EFB;&#x52A1;&#x901A;&#x77E5;](../.gitbook/assets/image%20%28115%29.png)
 
-![&#x70B9;&#x51FB;&#x5F39;&#x51FA;&#x4E8C;&#x7EF4;&#x7801;                                                   &#x957F;&#x6309;&#x8BC6;&#x522B;&#x4E8C;&#x7EF4;&#x7801;](../.gitbook/assets/image%20%2854%29.png)
+![&#x70B9;&#x51FB;&#x5F39;&#x51FA;&#x4E8C;&#x7EF4;&#x7801;                                                   &#x957F;&#x6309;&#x8BC6;&#x522B;&#x4E8C;&#x7EF4;&#x7801;](../.gitbook/assets/image%20%2867%29.png)
 
-![   &#x9886;&#x53D6;&#x4EFB;&#x52A1;                                                            &#x9009;&#x62E9;&#x5206;&#x4EAB;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%2870%29.png)
+![   &#x9886;&#x53D6;&#x4EFB;&#x52A1;                                                            &#x9009;&#x62E9;&#x5206;&#x4EAB;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%2884%29.png)
 
-![&#x53D1;&#x9001;&#x5206;&#x4EAB;&#x94FE;&#x63A5;                                                            &#x70B9;&#x51FB;&#x67E5;&#x770B;&#x4F5C;&#x54C1;](../.gitbook/assets/image%20%2811%29.png)
+![&#x53D1;&#x9001;&#x5206;&#x4EAB;&#x94FE;&#x63A5;                                                            &#x70B9;&#x51FB;&#x67E5;&#x770B;&#x4F5C;&#x54C1;](../.gitbook/assets/image%20%2816%29.png)
 
-![        &#x8F6C;&#x53D1;&#x63A8;&#x5E7F;                                                                          &#x5E26;&#x540D;&#x7247;&#x4F5C;&#x54C1;&#x6837;&#x5F0F;](../.gitbook/assets/image%20%28102%29.png)
+![        &#x8F6C;&#x53D1;&#x63A8;&#x5E7F;                                                                          &#x5E26;&#x540D;&#x7247;&#x4F5C;&#x54C1;&#x6837;&#x5F0F;](../.gitbook/assets/image%20%28118%29.png)
 
 {% hint style="info" %}
 员工必须在任务中心领取任务后转发出去，打开该作品的用户才归属于该员工，可以查看到用户数据 
@@ -38,7 +38,7 @@
 
 【客户列表】：通过该员工浏览了该内容的用户列表，点击单个用户可查看该用户的用户画像数据
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 ### 员工端数据看板
 
@@ -53,29 +53,64 @@
 
 * 行为记录：用户访问企业内容动态
 
+![](../.gitbook/assets/image%20%2834%29.png)
+
+* * * 跟进记录：手动添加对该用户的跟进记录
 
 
-* 详细资料：用户详细信息
-* * 跟进记录：手动添加对该用户的跟进记录
+
 * 表单：用户填写的表单信息
 * 
+![](../.gitbook/assets/image%20%2810%29.png)
 
+![](../.gitbook/assets/image%20%281%29.png)
 
+* 标签：通过一系列动作判断其画像，贴上标签，也可手动添加运营标签
 
+![](../.gitbook/assets/image%20%2815%29.png)
 
- 
+#### 商机雷达数据
 
+* 【推荐跟进客户】：AI智能计算高潜力客户 
+* 【提交电话的客户】：所有表单中留电话用户
+* 【高传播客户】：高传播力用户（KOL） 
+* 【流失挽回客户】：7天内没有与企业互动的用户 最新动态（实时更新）— 用户与企业互动记录
 
+![](../.gitbook/assets/image%20%2837%29.png)
 
+{% hint style="info" %}
+以上数据一天更新一次
+{% endhint %}
 
+* 最新动态：用户与企业互动记录
 
+![](../.gitbook/assets/image%20%288%29.png)
 
+{% hint style="info" %}
+最新动态数据实时更新
+{% endhint %}
 
-商机雷达数据
+#### 客户档案数据
 
-客户档案数据
+![](../.gitbook/assets/image%20%2831%29.png)
 
-部门数据
+{% hint style="info" %}
+客户档案数据实时更新，点击客户头像可进入单个客户详情
+{% endhint %}
 
+#### 部门数据
 
+* 【客户数据】：所选负责部门带来的客户总体情况 
+* 【任务领取率】：所选负责部门领取任务总体情况 
+* 【任务数据】：点击单个任务查看负责部门及单个渠道的任务目标完成情况（已完成目标/设置的目标）
+
+![](../.gitbook/assets/image%20%2885%29.png)
+
+{% hint style="info" %}
+部门数据每小时更新一次
+{% endhint %}
+
+### 员工端我的管理
+
+![](../.gitbook/assets/image%20%2856%29.png)
 
