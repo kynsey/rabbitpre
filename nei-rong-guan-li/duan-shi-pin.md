@@ -16,7 +16,7 @@
 文字字数最大可编辑当前页面模板字数的2倍
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 {% hint style="info" %}
 图片大小限制在5m内
