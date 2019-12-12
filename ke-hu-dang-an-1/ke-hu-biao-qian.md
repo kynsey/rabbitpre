@@ -160,7 +160,7 @@ description: >-
 
 右上角导出Excel，维度如下
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 ### 编辑
 
@@ -168,7 +168,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%28164%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
 ### 删除
 
