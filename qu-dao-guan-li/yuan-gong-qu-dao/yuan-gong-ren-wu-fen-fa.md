@@ -2,7 +2,9 @@
 
 ### **填写任务名称** <a id="tian-xie-ren-wu-ming-cheng"></a>
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222454zmmkski6gi6lkkq6.png) Tips细节如下：
+ ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222454zmmkski6gi6lkkq6.png) 
+
+Tips细节如下：
 
 * A、B情况均为必填项，文本框不能为空。
 * 权益名称限制最大字数20个字符，发布后不可修改

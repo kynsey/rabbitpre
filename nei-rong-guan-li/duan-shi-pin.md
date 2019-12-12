@@ -10,19 +10,19 @@
 
 进入模板编辑页面，可编辑带有【T】、视频符号、图片符号的素材，其余页面不可编辑删改，调速
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 {% hint style="info" %}
 文字字数最大可编辑当前页面模板字数的2倍
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 {% hint style="info" %}
 图片大小限制在5m内
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 {% hint style="info" %}
 视频的时长大小根据模板嵌入的视频长度而定，最大不超过40m
@@ -38,7 +38,7 @@
 
 ### 生成视频
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 {% hint style="info" %}
 生成视频约3-5分钟的渲染时间，请到工作台作品列表确认
