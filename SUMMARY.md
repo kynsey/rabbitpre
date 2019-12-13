@@ -55,10 +55,7 @@
   * [组件规则说明](liu-cheng-zi-dong-hua/zu-jian-gui-ze-shuo-ming.md)
   * [流程执行说明](liu-cheng-zi-dong-hua/liu-cheng-ji-chu-zu-he.md)
   * [流程规则说明](liu-cheng-zi-dong-hua/liu-cheng-gui-ze-shuo-ming.md)
-* [素材管理](su-cai-guan-li/README.md)
-  * [服务号素材](su-cai-guan-li/gong-zhong-hao-mo-ban-xiao-xi.md)
-  * [小程序素材](su-cai-guan-li/xiao-cheng-xu-mo-ban-xiao-xi.md)
-  * [手机短信素材](su-cai-guan-li/shou-ji-duan-xin-mo-ban.md)
+* [素材管理](su-cai-guan-li.md)
 
 ## 产品功能迭代记录 <a id="chan-pin-gong-neng-geng-xin-die-dai-li-shi-ji-lu"></a>
 
