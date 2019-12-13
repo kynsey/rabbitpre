@@ -12,7 +12,7 @@
 
 1、登录微信公众平台（登录账号需与工作台绑定的公众号主体一致） 登录入口：微信公众平台[https://mp.weixin.qq.com/](https://mp.weixin.qq.com/)
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 2、创建小程序（内容营销小程序和全员营销小程序需分别创建两个小程序）
 
@@ -28,7 +28,7 @@
 
 ![](../.gitbook/assets/image%20%2871%29.png)
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28185%29.png)
 
 3\) 填写小程序账号信息
 
@@ -46,7 +46,7 @@ b.写邮箱用于接收小程序激活邮件（一个邮箱只能注册一个小
 
 2）绑定小程序管理员（小程序管理员和公众平台管理员可以不同）
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28132%29.png)
 
 3）填写小程序基本信息
 
@@ -92,5 +92,5 @@ b.写邮箱用于接收小程序激活邮件（一个邮箱只能注册一个小
 
 7、小程序审核发布成功
 
-![](../.gitbook/assets/image%20%28141%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
