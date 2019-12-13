@@ -2,7 +2,7 @@
 
 ### 员工端接收任务
 
-![&#x4F01;&#x4E1A;&#x5FAE;&#x4FE1;&#x9996;&#x9875;                                                    &#x6536;&#x5230;&#x4EFB;&#x52A1;&#x901A;&#x77E5;](../.gitbook/assets/image%20%28159%29.png)
+![&#x4F01;&#x4E1A;&#x5FAE;&#x4FE1;&#x9996;&#x9875;                                                    &#x6536;&#x5230;&#x4EFB;&#x52A1;&#x901A;&#x77E5;](../.gitbook/assets/image%20%28160%29.png)
 
 ![&#x70B9;&#x51FB;&#x5F39;&#x51FA;&#x4E8C;&#x7EF4;&#x7801;                                                   &#x957F;&#x6309;&#x8BC6;&#x522B;&#x4E8C;&#x7EF4;&#x7801;](../.gitbook/assets/image%20%2891%29.png)
 
@@ -10,7 +10,7 @@
 
 ![&#x53D1;&#x9001;&#x5206;&#x4EAB;&#x94FE;&#x63A5;                                                            &#x70B9;&#x51FB;&#x67E5;&#x770B;&#x4F5C;&#x54C1;](../.gitbook/assets/image%20%2819%29.png)
 
-![        &#x8F6C;&#x53D1;&#x63A8;&#x5E7F;                                                                          &#x5E26;&#x540D;&#x7247;&#x4F5C;&#x54C1;&#x6837;&#x5F0F;](../.gitbook/assets/image%20%28162%29.png)
+![        &#x8F6C;&#x53D1;&#x63A8;&#x5E7F;                                                                          &#x5E26;&#x540D;&#x7247;&#x4F5C;&#x54C1;&#x6837;&#x5F0F;](../.gitbook/assets/image%20%28163%29.png)
 
 {% hint style="info" %}
 员工必须在任务中心领取任务后转发出去，打开该作品的用户才归属于该员工，可以查看到用户数据 
@@ -34,7 +34,7 @@
 * 【排行榜】：点击查看该任务中所有员工的积分排行 
 * 【客户列表】：通过该员工浏览了该内容的用户列表，点击单个用户可查看该用户的用户画像数据
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 ### 员工端数据看板
 
