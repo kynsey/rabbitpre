@@ -22,7 +22,7 @@ description: >-
 
 【举例】⼀线城市 华南区域 重点经销区域 广东区域
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 #### 手机机型
 
@@ -32,7 +32,7 @@ description: >-
 
 【举例】安卓用户、苹果用户、苹果最新机型用户
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 #### 年龄阶段
 
@@ -42,7 +42,7 @@ description: >-
 
 【举例】90后、80后、00后
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 ### 行为标签（基于用户行为数据提取的模型标签）
 
@@ -62,7 +62,7 @@ description: >-
 
 【举例】可连接手机号客户、高度可连接客户
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 #### 互动积极性
 
@@ -72,7 +72,7 @@ description: >-
 
 【举例】高度活跃客户、中度活跃客户、7天内高度活跃
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 #### 转化意向度
 
@@ -86,7 +86,7 @@ description: >-
 
 【举例】高度意向客户、中度意向客户、公众号活跃客户
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 #### 传播影响力
 
@@ -96,7 +96,7 @@ description: >-
 
 【举例】KOL、KOC
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 ### 营销标签（基于用户与系统渠道发生交互提取的标签）
 
@@ -106,7 +106,7 @@ description: >-
 
 【举例】杭州门店（18）、A某（10）
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 ### 内容标签（基于用户与营销内容发生交互提取的标签）
 
@@ -118,7 +118,7 @@ description: >-
 
 【举例】新品宣导、线下会议邀请
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 #### 内容访问频次
 
@@ -138,7 +138,7 @@ description: >-
 
 【举例】早读一族、夜猫一族
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 #### 运营标签
 
@@ -146,7 +146,7 @@ description: >-
 
 【举例】目标客户、高级客户、重点关注客户
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ## 客户标签面板说明
 
@@ -160,21 +160,21 @@ description: >-
 
 右上角导出Excel，维度如下
 
-![](../.gitbook/assets/image%20%28159%29.png)
+![](../.gitbook/assets/image%20%28164%29.png)
 
 ### 编辑
 
 选择右上角新建标签或点击已建好的标签右下角编辑
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
-![](../.gitbook/assets/image%20%28177%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
 ### 删除
 
 点击某设好的标签，右下角删除标签
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 
 

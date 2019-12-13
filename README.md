@@ -5,7 +5,7 @@ description: >-
 
 # 营销云产品帮助中心
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ### 流量红利消失，线下客流减少，获客难上加难
 
