@@ -12,6 +12,7 @@
   * [短视频](nei-rong-guan-li/duan-shi-pin.md)
   * [小游戏](nei-rong-guan-li/xiao-you-xi.md)
   * [营销插件](nei-rong-guan-li/ying-xiao-cha-jian/README.md)
+    * [邀请有奖](nei-rong-guan-li/ying-xiao-cha-jian/yao-qing-you-jiang.md)
     * [幸运抽奖](nei-rong-guan-li/ying-xiao-cha-jian/xing-yun-chou-jiang.md)
     * [组队抽奖](nei-rong-guan-li/ying-xiao-cha-jian/zu-dui-chou-jiang.md)
     * [拼团电商](nei-rong-guan-li/ying-xiao-cha-jian/pin-tuan-dian-shang.md)
