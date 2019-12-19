@@ -1,6 +1,6 @@
 # 渠道管理
 
-![](../.gitbook/assets/image%20%28224%29.png)
+![](../.gitbook/assets/image%20%28226%29.png)
 
 ### 连接线上线下，不浪费企业任何触点
 
