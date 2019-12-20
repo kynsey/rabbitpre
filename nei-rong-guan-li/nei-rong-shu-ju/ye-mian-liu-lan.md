@@ -10,21 +10,21 @@
 分享量为用户点击分享的行为次数统计，非分享结果的统计
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28198%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
 ### 微信访客
 
 微信访客是指微信环境下获得的明文授权的访客，该页面仅记录100名最新访客，更多客户请到对应作品的客户档案查看
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 ### 时长分布
 
 该页面是记录访客阅读时长在各个时间长度区间的占比，该数据代表了作品的可读性或交互性的程度
 
-![](../../.gitbook/assets/image%20%28210%29.png)
+![](../../.gitbook/assets/image%20%28212%29.png)
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 {% hint style="info" %}
 该数据每小时更新一次
@@ -38,7 +38,7 @@
 
 意义：判断不同页面的质量，如果流失率过高，表明很多访客没有耐心或者兴趣往下看。
 
-![](../../.gitbook/assets/image%20%28169%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
 {% hint style="info" %}
 该数据每小时更新一次
@@ -50,7 +50,7 @@
 
 意义：通过展示不同浏览深度的人数占比，了解投放人群对该H5的感兴趣程度，从而判断H5的页面质量或者人群的投放精准度。
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="info" %}
 该数据每小时更新一次
