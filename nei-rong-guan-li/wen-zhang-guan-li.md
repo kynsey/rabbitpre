@@ -30,5 +30,5 @@
 公众号文章：输入微信公众号文章链接地址，检测完毕后导入
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
