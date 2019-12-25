@@ -1,6 +1,6 @@
 # 内容管理
 
-![](../.gitbook/assets/image%20%28215%29.png)
+![](../.gitbook/assets/image%20%28220%29.png)
 
 ### 丰富的内容生产形式
 
