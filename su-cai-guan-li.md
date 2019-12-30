@@ -6,35 +6,35 @@
 
 按照下图步骤操作，按提示编辑图文内容。图文内容可用于客户触达或关注回复
 
-![](.gitbook/assets/image%20%28197%29.png)
+![](.gitbook/assets/image%20%28204%29.png)
 
 ### 微信图文
 
 同步微信图文后，可点击转化将微信公众号文章导出长页作品
 
-![](.gitbook/assets/image%20%28131%29.png)
+![](.gitbook/assets/image%20%28137%29.png)
 
 ###  模板消息 
 
 添加模板消息，选择模板。模板的标题取决于服务号后台已有的模板标题列表，如需要其他模板消息，请到微信公众后台模板库添加
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 模板消息可跳转兔展作品、外部链接、小程序或者不跳转
 
-![](.gitbook/assets/image%20%28251%29.png)
+![](.gitbook/assets/image%20%28259%29.png)
 
 ### 小程序卡片
 
 服务号需关联小程序后才能添加小程序卡片
 
-![](.gitbook/assets/image%20%28265%29.png)
+![](.gitbook/assets/image%20%28273%29.png)
 
 ## 小程序素材
 
 小程序消息是以服务通知的形式呈现的，不以公众号消息。小程序的模板消息类型需在微信公众平台登录小程序后添加
 
-![](.gitbook/assets/image%20%28207%29.png)
+![](.gitbook/assets/image%20%28215%29.png)
 
 模板可跳转小程序首页、兔展作品或不跳转
 
@@ -42,11 +42,11 @@
 仅支持跳转兔展的翻页、长页、小程序作品和幸运抽奖作品
 {% endhint %}
 
-![](.gitbook/assets/image%20%28256%29.png)
+![](.gitbook/assets/image%20%28264%29.png)
 
 ## 手机短信素材
 
 按照下图提示编辑短信素材内容，企业默认赠送1000条短信，超过需收费
 
-![](.gitbook/assets/image%20%28309%29.png)
+![](.gitbook/assets/image%20%28318%29.png)
 

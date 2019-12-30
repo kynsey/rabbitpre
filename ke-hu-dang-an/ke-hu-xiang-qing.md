@@ -4,7 +4,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 # 客户详情
 
-![](../.gitbook/assets/image%20%28210%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 ### **基本信息**
 
@@ -15,7 +15,7 @@ description: 可在此页⾯查看某个客户的客户详情
 * 最近访问时间：即最后一次访问的时间
 * 最近访问地区：访问内容的地区或者微信主动上报的地区
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### **指标信息**
 
