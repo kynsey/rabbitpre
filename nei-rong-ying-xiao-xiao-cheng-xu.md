@@ -4,7 +4,7 @@ description: 兔展内容营销小程序，主要为客户提供丰富的小程�
 
 # 内容营销小程序
 
-![](.gitbook/assets/image%20%28123%29.png)
+![](.gitbook/assets/image%20%28129%29.png)
 
 
 
@@ -138,7 +138,7 @@ description: 兔展内容营销小程序，主要为客户提供丰富的小程�
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](.gitbook/assets/image%20%28102%29.png)
+</table>![](.gitbook/assets/image%20%28108%29.png)
 
 
 
@@ -251,7 +251,7 @@ description: 兔展内容营销小程序，主要为客户提供丰富的小程�
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](.gitbook/assets/image%20%28233%29.png)
+</table>![](.gitbook/assets/image%20%28246%29.png)
 
 ### 我的（个人中心）
 

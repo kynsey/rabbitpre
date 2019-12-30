@@ -4,7 +4,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 # 客户详情
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 ### **基本信息**
 

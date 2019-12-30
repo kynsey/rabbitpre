@@ -1,6 +1,6 @@
 # 客户档案
 
-![](../.gitbook/assets/image%20%28166%29.png)
+![](../.gitbook/assets/image%20%28175%29.png)
 
 ### 用户数据整合
 
