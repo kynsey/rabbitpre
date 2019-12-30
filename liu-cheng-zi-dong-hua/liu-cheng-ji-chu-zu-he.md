@@ -22,5 +22,5 @@
 
 2+3: 当人触发「判断条件」时，进行「执行」动作。
 
-![](https://uploader.shimo.im/f/yKtHwg18al0onaGB.png!thumbnail)
+
 
