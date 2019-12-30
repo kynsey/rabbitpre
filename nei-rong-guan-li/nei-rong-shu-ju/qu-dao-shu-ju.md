@@ -6,7 +6,7 @@
 
 自有渠道及员工渠道（部门视角和员工视角），统计到的数据维度有实时浏览量、浏览人数、分享量、按钮点击量、按钮点击人数、实时表单量以及人均时长，支持导出数据
 
-![](../../.gitbook/assets/image%20%28194%29.png)
+![](../../.gitbook/assets/image%20%28243%29.png)
 
 {% hint style="warning" %}
 浏览量和表单量实时统计，其余数据每小时更新一次
@@ -20,7 +20,7 @@
 
 可按渠道类型或部门查看渠道数据分布情况，统计浏览量、浏览人数及分享量
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28226%29.png)
 
 {% hint style="warning" %}
 浏览量和分享量实时统计，浏览人数每小时更新一次
@@ -34,7 +34,7 @@
 
 展示渠道的趋势图
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 {% hint style="warning" %}
 浏览量和分享量实时统计，浏览人数每小时更新一次
@@ -48,7 +48,7 @@
 
 以自有渠道或员工渠道为单位进行渠道数据排行TOP20
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
 {% hint style="warning" %}
 数据每小时更新一次
