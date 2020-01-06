@@ -7,14 +7,14 @@
 * 分享率=分享量/浏览量
 * 该页面记录了分享率、分享量、时间上的最高分享率及最低分享率
 
-![](../../.gitbook/assets/image%20%28318%29.png)
+![](../../.gitbook/assets/image%20%28319%29.png)
 
 #### 分享打开率
 
 * 分享打开率=分享链接打开量/分享量
 * 该页面记录了分享打开率、分享打开量、最高分享打开率以及最低分享打开率，可监测分享效果
 
-![](../../.gitbook/assets/image%20%28168%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 {% hint style="info" %}
 以上数据每小时更新一次
@@ -26,7 +26,7 @@
 
 意义：通过传播层级图，可以清晰地观察到作品传播的裂变衰减情况
 
-![](../../.gitbook/assets/image%20%28216%29.png)
+![](../../.gitbook/assets/image%20%28217%29.png)
 
 {% hint style="info" %}
 该数据每小时更新一次
@@ -46,7 +46,7 @@
 
 定义：统计往各个渠道分享 H5 次数的百分比
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28176%29.png)
 
 {% hint style="info" %}
 以上数据每小时更新一次
@@ -66,7 +66,7 @@
 
 定义：统计访问在超一线城市，一线城市，二线城市，三四线城市，五六线城市下的城市覆盖率
 
-![](../../.gitbook/assets/image%20%28158%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
 
 {% hint style="info" %}
 以上数据每小时更新一次

@@ -4,47 +4,58 @@
 
 ### **1）填写任务名称** <a id="tian-xie-ren-wu-ming-cheng"></a>
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222454zmmkski6gi6lkkq6.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222454zmmkski6gi6lkkq6.png)
 
-Tips细节如下：
-
+{% hint style="info" %}
 * A、B情况均为必填项，文本框不能为空。
 * 权益名称限制最大字数20个字符，发布后不可修改
 * 最大输入限制20个字符（中英文）、最小输入限制1个中文字（1个英文字符）
+{% endhint %}
 
 ### **2）选择任务时间范围** <a id="xuan-ze-ren-wu-shi-jian-fan-wei"></a>
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222516p05n7ljnezdc0jel.png) Tips细节如下：
+ ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222516p05n7ljnezdc0jel.png) 
 
+Tips细节如下：
+
+{% hint style="info" %}
 * A、B情况均为必填项l 任务开始时间发布后不可修改
 * 开始时间默认获取当前时间、结束时间不能小于开始时间，可精确到小时，向上取整（即当前12:01，任务开始时间仅能设置13:00，目的为了保证数据统计准确）。
 * 任务时间范围最长设置1年。
+{% endhint %}
 
 ### **3）选择推送给员工的作品内容（非必填）** <a id="xuan-ze-tui-song-gei-yuan-gong-de-zuo-pin-nei-rong-fei-bi-tian"></a>
 
-1\) 点击【添加作品】
+* 点击【添加作品】
 
 ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222903b94tt0ibjkd4bb04.png)
 
-2\) 选择具体作品内容
+* 选择具体作品内容
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222920q2d1d2o1kih0gomk.png)​
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222920q2d1d2o1kih0gomk.png)
 
-3\)选择作品传播形式
+* 选择作品传播形式
 
-​![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222937vkds6unz7afz46fu.png)​
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/222937vkds6unz7afz46fu.png)
 
-Tips细节如下：l 如设置运营任务指标类型可不选择作品，且每个任务只能设置一个目标。l 根据选择分发的作品类型，以及作品的传播形式，对应选择的任务目标不同。l 支持小程序形式分发的作品类型：翻页、长页、幸运抽奖、小程序作品（内容小程序）l 支持H5形式分发的作品类型：所有类型，除了小程序作品、外部小程序不支持。
+{% hint style="info" %}
+* 如设置运营任务指标类型可不选择作品，且每个任务只能设置一个目标
+* 根据选择分发的作品类型，以及作品的传播形式，对应选择的任务目标不同
+* 支持小程序形式分发的作品类型：翻页、长页、幸运抽奖、小程序作品（内容小程序）
+* l支持H5形式分发的作品类型：所有类型，除了小程序作品、外部小程序不支持。
+{% endhint %}
+
+
 
 ### **4\) 设置任务目标**  <a id="she-zhi-ren-wu-mu-biao"></a>
 
 * 点击【+添加目标】
 
-​![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223431d6vffi6iikavfcwf.png)​
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223431d6vffi6iikavfcwf.png)
 
 * 选择目标项
 
-​![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223448leo2kk49kdfop242.png)​
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223448leo2kk49kdfop242.png)
 
 说明：目标项分为内容传播目标、运营任务目标两大类，可根据类型选择对应的目标。是否选择作品以及选择不同作品对应可选的目标不同
 
@@ -61,15 +72,21 @@ Tips细节如下：l 如设置运营任务指标类型可不选择作品，且�
 | 长按识别人数 | ​ |
 | 完成订单数 | ​ |
 
- 3\)选择目标值 ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223502kftyj2btsfysivls.png)​
+* 选择目标值
 
-说明：目标值范围是0-99999的数值，填0后，不可设置积分。 4\)选择是否需要激励
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223502kftyj2btsfysivls.png)
 
-a、无激励
+说明：目标值范围是0-99999的数值，填0后，不可设置积分。
 
-​![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223516wkcf5nsntk4nttta.png) b、积分激励
+* 选择是否需要激励
 
-​![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223532zdwdmd5kwdjx7xmf.png) 说明：
+   a、无激励
+
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223516wkcf5nsntk4nttta.png)
+
+b、积分激励
+
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/223532zdwdmd5kwdjx7xmf.png)
 
 * 激励分为无激励、积分激励两种
 * 积分激励需要设置积分值，积分值范围是1-999数值。
@@ -100,11 +117,11 @@ a、无激励
 
 * 选择添加权益按钮
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224756rg4rj94z4gppj48w.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224756rg4rj94z4gppj48w.png)
 
 * 设置权益明细
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224818r101pyf0fo3zef0l.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224818r101pyf0fo3zef0l.png)
 
 说明：
 
@@ -115,7 +132,7 @@ a、无激励
 * 任务说明限制最大字数200个字符
 * 填写完保存后的截图如下:
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224829s4hn85sqrod8gnhq.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224829s4hn85sqrod8gnhq.png)
 
 {% hint style="info" %}
 * 权益目录数最大添加限制为10个
@@ -130,7 +147,7 @@ a、无激励
 
 * 设置通知的部门及员工
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224850uehe3sgag7g7v295.png)​
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224850uehe3sgag7g7v295.png)
 
 说明：
 
@@ -140,7 +157,7 @@ a、无激励
 
 ### **9\) 设置渠道传播海报** <a id="she-zhi-qu-dao-chuan-bo-hai-bao"></a>
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224904bjhhggr2h0yd2gdn.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/224904bjhhggr2h0yd2gdn.png)
 
 {% hint style="info" %}
 * 未选择作品则不支持渠道传播海报；
@@ -153,11 +170,11 @@ a、无激励
 
 * 选择发布按钮
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230245z4yrhfaooj7975zh.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230245z4yrhfaooj7975zh.png)
 
 * 发布成功并跳转到任务管理页面
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230408qcae8dycypndzc6c.png) 
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230408qcae8dycypndzc6c.png)
 
 情况二：
 
@@ -171,23 +188,21 @@ a、无激励
 
 * 点击通知按钮完成发布，等待通知
 
- ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230445ruox6aluqa6lvb6l.png)
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230445ruox6aluqa6lvb6l.png)
 
 ## **2.员工任务管理**
 
 ### **1\) 任务管理页面概述**
 
-任务管理可查询已创建任务信息、修改任务内容信息、查看任务详情信息，数据报表，以及通知员工等。  
-  
+任务管理可查询已创建任务信息、修改任务内容信息、查看任务详情信息，数据报表，以及通知员工等。
+
 ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230837q9ii7d24xjatp9pp.png)
 
 ### **2\) 搜索框**
 
 输入任务名称快速搜索对应的任务记录
 
-  
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230849u9xgegghtbnh7yhg.png)  
-
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230849u9xgegghtbnh7yhg.png)
 
 ### **3\) 任务列表字段说明**
 
@@ -216,15 +231,13 @@ a、无激励
 
 点击对应任务目录【通知】按钮，进入通知详情页面
 
-  
 ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230900pu290w7l97l999nr.png)
 
 ### **6\) 通知详情页面**
 
-可查看通知模版显示内容信息，实时修改通知描述以及查看已选择通知对象（即员工）；任务可对在任务关键节点进行多次任务通知。  
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230911xckaakt3karb2nc4.png)  
-  
-说明：
+可查看通知模版显示内容信息，实时修改通知描述以及查看已选择通知对象（即员工）；任务可对在任务关键节点进行多次任务通知。
+
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230911xckaakt3karb2nc4.png)
 
 任务名称通知后不会显示在模版消息
 
@@ -234,7 +247,7 @@ a、无激励
 
 ### **7\) 通知页面**
 
-\*\*\*\*![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230922kloh7i779h8kwuld.png)\*\*\*\*
+![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230922kloh7i779h8kwuld.png)
 
 ###  **8\) 通知记录**
 
@@ -250,8 +263,7 @@ a、无激励
 
 ### **9\) 任务管理详情页面**
 
-点击任务列表右边「详情」和点击列表每一行跳转任务详情页，如下：  
-
+点击任务列表右边「详情」和点击列表每一行跳转任务详情页，如下：
 
 ![](../.gitbook/assets/image%20%28107%29.png)
 
