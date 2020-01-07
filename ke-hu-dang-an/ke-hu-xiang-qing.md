@@ -44,9 +44,9 @@ description: 可在此页⾯查看某个客户的客户详情
 
 最近访问地区：访问内容的地区或者微信主动上报的地区。
 
-![](../.gitbook/assets/image%20%28308%29.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 
-![](../.gitbook/assets/image%20%28308%29.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 
 ### 客户标签
 
@@ -62,7 +62,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 ### 指标信息
 
-![](../.gitbook/assets/image%20%28232%29.png)
+![](../.gitbook/assets/image%20%28233%29.png)
 
 推荐度（近7天、近30天），默认展示近7天；
 
@@ -84,7 +84,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
  Ta的⼈脉（可点击展开查看所有⼈脉，点击⼈脉头像可跳转到该⼈脉的客户详情）
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28185%29.png)
 
  关键⾏为（即⾏为标签，沿⽤全员营销⼩程序端的定义和功能） 包括“访问”、“转发”、“表单”、“活动”、“成交”、“公众号互动”、“点击⾏为”、"提交⼿机"
 
@@ -120,5 +120,5 @@ description: 可在此页⾯查看某个客户的客户详情
 
  触达详情：展示触达的详细内容。根据消息类型不同，显示的触达详情也不同
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28272%29.png)
 
