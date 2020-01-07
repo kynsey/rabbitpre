@@ -10,7 +10,7 @@
 分享量为用户点击分享的行为次数统计，非分享结果的统计
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28299%29.png)
+![](../../.gitbook/assets/image%20%28300%29.png)
 
 ### 2.微信访客
 
@@ -22,7 +22,7 @@
 
 该页面是记录访客阅读时长在各个时间长度区间的占比，该数据代表了作品的可读性或交互性的程度
 
-![](../../.gitbook/assets/image%20%28313%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 ![](../../.gitbook/assets/image%20%28225%29.png)
 
