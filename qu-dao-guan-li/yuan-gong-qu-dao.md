@@ -174,7 +174,7 @@ b、积分激励
 
 * 发布成功并跳转到任务管理页面
 
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230408qcae8dycypndzc6c.png)
+![](../.gitbook/assets/image%20%28167%29.png)
 
 情况二：
 
@@ -184,11 +184,9 @@ b、积分激励
 
 * 发布成功并跳转到任务通知页面
 
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230435opnng3bll7l7kg43.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 
 * 点击通知按钮完成发布，等待通知
-
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230445ruox6aluqa6lvb6l.png)
 
 ## **2.员工任务管理**
 
@@ -196,7 +194,7 @@ b、积分激励
 
 任务管理可查询已创建任务信息、修改任务内容信息、查看任务详情信息，数据报表，以及通知员工等。
 
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230837q9ii7d24xjatp9pp.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 ### **2\) 搜索框**
 
@@ -237,7 +235,7 @@ b、积分激励
 
 可查看通知模版显示内容信息，实时修改通知描述以及查看已选择通知对象（即员工）；任务可对在任务关键节点进行多次任务通知。
 
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/230911xckaakt3karb2nc4.png)
+![](../.gitbook/assets/image%20%28265%29.png)
 
 任务名称通知后不会显示在模版消息
 
@@ -253,7 +251,7 @@ b、积分激励
 
 可查看具体通知状态是否成功或者失败、通知内容信息、通知时间等
 
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/22/231343ptureau4ztuzt1ct.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 {% hint style="info" %}
 * 支持时间筛选
@@ -265,13 +263,13 @@ b、积分激励
 
 点击任务列表右边「详情」和点击列表每一行跳转任务详情页，如下：
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 ### **10\) 任务详情板块**
 
 * 任务信息
 
-![](http://bbscdn.rabbitpre.com/data/attachment/forum/201907/23/011634y1l751iz51znj666.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 * 字段说明
 
