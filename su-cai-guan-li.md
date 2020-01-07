@@ -22,13 +22,13 @@
 
 模板消息可跳转兔展作品、外部链接、小程序或者不跳转
 
-![](.gitbook/assets/image%20%28267%29.png)
+![](.gitbook/assets/image%20%28269%29.png)
 
 ### 4\) 小程序卡片
 
 服务号需关联小程序后才能添加小程序卡片
 
-![](.gitbook/assets/image%20%28282%29.png)
+![](.gitbook/assets/image%20%28284%29.png)
 
 ## 2.小程序素材
 
@@ -42,11 +42,11 @@
 仅支持跳转兔展的翻页、长页、小程序作品和幸运抽奖作品
 {% endhint %}
 
-![](.gitbook/assets/image%20%28273%29.png)
+![](.gitbook/assets/image%20%28275%29.png)
 
 ## 3.手机短信素材
 
 按照下图提示编辑短信素材内容，企业默认赠送1000条短信，超过需收费
 
-![](.gitbook/assets/image%20%28328%29.png)
+![](.gitbook/assets/image%20%28330%29.png)
 

@@ -102,7 +102,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 • 跟进记录详细内容：⽂字不超过200字、图⽚不超过4张；
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../.gitbook/assets/image%20%28246%29.png)
 
 ### **5.行为记录**
 
@@ -116,7 +116,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 • 公众号的互动⾏为有展示顺序
 
-![](../.gitbook/assets/image%20%28240%29.png)
+![](../.gitbook/assets/image%20%28242%29.png)
 
 ### **6.触达记录**
 
@@ -134,7 +134,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 • 触达详情：展示触达的详细内容。根据消息类型不同，显示的触达详情也不同。
 
-![](../.gitbook/assets/image%20%28314%29.png)
+![](../.gitbook/assets/image%20%28316%29.png)
 
 ### **7.联系该客户**
 

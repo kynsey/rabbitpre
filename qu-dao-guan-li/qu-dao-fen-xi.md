@@ -17,7 +17,7 @@
 
 可按渠道类型或部门查看渠道数据分布情况，统计浏览量、浏览人数及分享量
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28243%29.png)
 
 {% hint style="warning" %}
 * 浏览量和分享量实时统计，浏览人数每小时更新一次

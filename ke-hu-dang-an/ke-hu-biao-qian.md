@@ -86,7 +86,7 @@ description: >-
 
 【举例】高度意向客户、中度意向客户、公众号活跃客户
 
-![](../.gitbook/assets/image%20%28266%29.png)
+![](../.gitbook/assets/image%20%28268%29.png)
 
 #### 传播影响力
 
@@ -106,7 +106,7 @@ description: >-
 
 【举例】杭州门店（18）、A某（10）
 
-![](../.gitbook/assets/image%20%28250%29.png)
+![](../.gitbook/assets/image%20%28252%29.png)
 
 ### 4）内容标签（基于用户与营销内容发生交互提取的标签）
 
@@ -160,7 +160,7 @@ description: >-
 
 右上角导出Excel，维度如下
 
-![](../.gitbook/assets/image%20%28301%29.png)
+![](../.gitbook/assets/image%20%28303%29.png)
 
 ### 3）编辑
 
@@ -168,7 +168,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2864%29.png)
 
-![](../.gitbook/assets/image%20%28331%29.png)
+![](../.gitbook/assets/image%20%28333%29.png)
 
 ### 4）删除
 
