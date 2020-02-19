@@ -2,11 +2,11 @@
 
 ### 触达任务
 
-![](../.gitbook/assets/image%20%28236%29.png)
+![](../.gitbook/assets/image%20%28237%29.png)
 
 编辑任务名称，限制在20个字符内，该任务名称不会在用户端显示
 
-![](../.gitbook/assets/image%20%28337%29.png)
+![](../.gitbook/assets/image%20%28340%29.png)
 
 {% hint style="info" %}
 由于在客户档案下的分组是可能会有重复的，避免骚扰到客户，勾选“去除今日已发送客户”，则发送消息时候自动剔除该企业下今天已经发送过的客户。预计发送人数中的人数也要减去对应的人数数量
@@ -29,7 +29,7 @@
 
 * * 
 
-![](../.gitbook/assets/image%20%28354%29.png)
+![](../.gitbook/assets/image%20%28357%29.png)
 
 * * 
 
@@ -47,7 +47,7 @@
 
 以上操作完成后，点击确定完成触达。详细触达内容可在历史推送查看，支持时间筛选和搜索
 
-![](../.gitbook/assets/image%20%28295%29.png)
+![](../.gitbook/assets/image%20%28298%29.png)
 
 
 
