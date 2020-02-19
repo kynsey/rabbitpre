@@ -251,7 +251,7 @@ description: 兔展内容营销小程序，主要为客户提供丰富的小程�
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](.gitbook/assets/image%20%28346%29.png)
+</table>![](.gitbook/assets/image%20%28349%29.png)
 
 ### 3.我的（个人中心）
 
