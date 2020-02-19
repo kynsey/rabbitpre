@@ -22,5 +22,5 @@
 
 2+3: 当人触发「判断条件」时，进行「执行」动作。
 
-![](../.gitbook/assets/image%20%28188%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
