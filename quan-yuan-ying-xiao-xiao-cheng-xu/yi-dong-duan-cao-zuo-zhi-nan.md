@@ -4,9 +4,9 @@
 
 公众号点击【模板消息】进入全员营销小程序领取任务分享
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
-![](../.gitbook/assets/image%20%28210%29.png)
+![](../.gitbook/assets/image%20%28215%29.png)
 
 {% hint style="info" %}
 员工必须在任务中心领取任务后转发出去，打开该作品的用户才归属于该员工，可以查看到用户数据 
@@ -30,7 +30,7 @@
 * 【排行榜】：点击查看该任务中所有员工的积分排行 
 * 【客户列表】：通过该员工浏览了该内容的用户列表，点击单个用户可查看该用户的用户画像数据
 
-![](../.gitbook/assets/image%20%28346%29.png)
+![](../.gitbook/assets/image%20%28353%29.png)
 
 ### 3.员工端数据看板
 
@@ -45,11 +45,11 @@
 
 * 行为记录：用户访问企业内容动态
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 * 跟进记录：手动添加对该用户的跟进记录
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 * 表单：用户填写的表单信息
 
@@ -57,7 +57,7 @@
 
 * 标签：通过一系列动作判断其画像，贴上标签，也可手动添加运营标签
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 #### 商机雷达数据
 
@@ -66,7 +66,7 @@
 * 【高传播客户】：高传播力用户（KOL） 
 * 【流失挽回客户】：7天内没有与企业互动的用户 最新动态（实时更新）— 用户与企业互动记录
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 {% hint style="info" %}
 以上数据一天更新一次
@@ -82,7 +82,7 @@
 
 #### 客户档案数据
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 {% hint style="info" %}
 客户档案数据实时更新，点击客户头像可进入单个客户详情
@@ -94,7 +94,7 @@
 * 【任务领取率】：所选负责部门领取任务总体情况 
 * 【任务数据】：点击单个任务查看负责部门及单个渠道的任务目标完成情况（已完成目标/设置的目标）
 
-![](../.gitbook/assets/image%20%28220%29.png)
+![](../.gitbook/assets/image%20%28226%29.png)
 
 {% hint style="info" %}
 部门数据每小时更新一次
@@ -108,5 +108,5 @@
 * 【我的权益】：该员工兑换的权益
 * 【通知设置】：打开按钮即可接收对应模板消息
 
-![](../.gitbook/assets/image%20%28314%29.png)
+![](../.gitbook/assets/image%20%28321%29.png)
 
