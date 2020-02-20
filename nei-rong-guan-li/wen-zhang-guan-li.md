@@ -29,11 +29,11 @@
 公众号文章：输入微信公众号文章链接地址，检测完毕后导入
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28194%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 * 进入编辑页面后，可点击高级编辑，进行图片的删除和尺寸调整，以及文字格式调整
 
-![](../.gitbook/assets/image%20%28281%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
-![](../.gitbook/assets/image%20%28273%29.png)
+![](../.gitbook/assets/image%20%28274%29.png)
 
