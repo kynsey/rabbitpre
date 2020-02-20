@@ -33,7 +33,7 @@
     * 识别二维码：识别二维码的次数
     * 传播访客类型（KOL）:有关键传播访客、中度传播访客、低度传播访客、其他访客
 
-![](../.gitbook/assets/image%20%28339%29.png)
+![](../.gitbook/assets/image%20%28340%29.png)
 
 * * 选择公众号互动时
     * 扫渠道参数二维码：扫自有渠道中的关注回复码的次数
@@ -73,13 +73,13 @@
 
 点击导出按钮，将Excel数据发送到管理员手机上
 
-![](../.gitbook/assets/image%20%28331%29.png)
+![](../.gitbook/assets/image%20%28332%29.png)
 
 ### 4.删除分组
 
 点击删除按钮，即可删除分组
 
-![](../.gitbook/assets/image%20%28359%29.png)
+![](../.gitbook/assets/image%20%28360%29.png)
 
 
 
