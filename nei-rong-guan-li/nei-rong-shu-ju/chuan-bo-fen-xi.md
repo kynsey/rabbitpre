@@ -7,7 +7,7 @@
 * 分享率=分享量/浏览量
 * 该页面记录了分享率、分享量、时间上的最高分享率及最低分享率
 
-![](../../.gitbook/assets/image%20%28385%29.png)
+![](../../.gitbook/assets/image%20%28386%29.png)
 
 #### 分享打开率
 
@@ -26,7 +26,7 @@
 
 意义：通过传播层级图，可以清晰地观察到作品传播的裂变衰减情况
 
-![](../../.gitbook/assets/image%20%28253%29.png)
+![](../../.gitbook/assets/image%20%28254%29.png)
 
 {% hint style="info" %}
 该数据每小时更新一次
@@ -46,7 +46,7 @@
 
 定义：统计往各个渠道分享 H5 次数的百分比
 
-![](../../.gitbook/assets/image%20%28203%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 {% hint style="info" %}
 以上数据每小时更新一次
