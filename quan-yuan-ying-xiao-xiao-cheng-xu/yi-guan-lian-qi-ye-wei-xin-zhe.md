@@ -2,15 +2,15 @@
 
 ### 1.员工端接收任务
 
-![&#x4F01;&#x4E1A;&#x5FAE;&#x4FE1;&#x9996;&#x9875;                                                    &#x6536;&#x5230;&#x4EFB;&#x52A1;&#x901A;&#x77E5;](../.gitbook/assets/image%20%28316%29.png)
+![&#x4F01;&#x4E1A;&#x5FAE;&#x4FE1;&#x9996;&#x9875;                                                    &#x6536;&#x5230;&#x4EFB;&#x52A1;&#x901A;&#x77E5;](../.gitbook/assets/image%20%28317%29.png)
 
-![&#x70B9;&#x51FB;&#x5F39;&#x51FA;&#x4E8C;&#x7EF4;&#x7801;                                                   &#x957F;&#x6309;&#x8BC6;&#x522B;&#x4E8C;&#x7EF4;&#x7801;](../.gitbook/assets/image%20%28171%29.png)
+![&#x70B9;&#x51FB;&#x5F39;&#x51FA;&#x4E8C;&#x7EF4;&#x7801;                                                   &#x957F;&#x6309;&#x8BC6;&#x522B;&#x4E8C;&#x7EF4;&#x7801;](../.gitbook/assets/image%20%28172%29.png)
 
-![   &#x9886;&#x53D6;&#x4EFB;&#x52A1;                                                            &#x9009;&#x62E9;&#x5206;&#x4EAB;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%28213%29.png)
+![   &#x9886;&#x53D6;&#x4EFB;&#x52A1;                                                            &#x9009;&#x62E9;&#x5206;&#x4EAB;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%28214%29.png)
 
 ![&#x53D1;&#x9001;&#x5206;&#x4EAB;&#x94FE;&#x63A5;                                                            &#x70B9;&#x51FB;&#x67E5;&#x770B;&#x4F5C;&#x54C1;](../.gitbook/assets/image%20%2831%29.png)
 
-![        &#x8F6C;&#x53D1;&#x63A8;&#x5E7F;                                                                          &#x5E26;&#x540D;&#x7247;&#x4F5C;&#x54C1;&#x6837;&#x5F0F;](../.gitbook/assets/image%20%28324%29.png)
+![        &#x8F6C;&#x53D1;&#x63A8;&#x5E7F;                                                                          &#x5E26;&#x540D;&#x7247;&#x4F5C;&#x54C1;&#x6837;&#x5F0F;](../.gitbook/assets/image%20%28325%29.png)
 
 {% hint style="info" %}
 员工必须在任务中心领取任务后转发出去，打开该作品的用户才归属于该员工，可以查看到用户数据 
@@ -34,7 +34,7 @@
 * 【排行榜】：点击查看该任务中所有员工的积分排行 
 * 【客户列表】：通过该员工浏览了该内容的用户列表，点击单个用户可查看该用户的用户画像数据
 
-![](../.gitbook/assets/image%20%28335%29.png)
+![](../.gitbook/assets/image%20%28336%29.png)
 
 ### 3.员工端数据看板
 
@@ -98,7 +98,7 @@
 * 【任务领取率】：所选负责部门领取任务总体情况 
 * 【任务数据】：点击单个任务查看负责部门及单个渠道的任务目标完成情况（已完成目标/设置的目标）
 
-![](../.gitbook/assets/image%20%28214%29.png)
+![](../.gitbook/assets/image%20%28215%29.png)
 
 {% hint style="info" %}
 部门数据每小时更新一次
@@ -112,5 +112,5 @@
 * 【我的权益】：该员工兑换的权益
 * 【通知设置】：打开按钮即可接收对应模板消息通知，关闭则不推送 
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28144%29.png)
 
