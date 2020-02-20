@@ -6,6 +6,7 @@
     * [关联企业微信](untitled/zhang-hao-deng-lu/guan-lian-qi-ye-wei-xin.md)
     * [非关联企业微信](untitled/zhang-hao-deng-lu/fei-guan-lian-qi-ye-wei-xin.md)
   * [工作台公众号授权](untitled/gong-zuo-tai-gong-zhong-hao-shou-quan.md)
+  * [公众号绑定授权](untitled/gong-zhong-hao-bang-ding-shou-quan.md)
   * [小程序申请及授权流程](untitled/xiao-cheng-xu-shen-qing-liu-cheng.md)
 * [内容管理](nei-rong-guan-li/README.md)
   * [翻页/长页H5](nei-rong-guan-li/fan-ye-chang-ye-h5.md)
