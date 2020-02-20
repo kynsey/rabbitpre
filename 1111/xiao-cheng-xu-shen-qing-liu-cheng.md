@@ -2,7 +2,7 @@
 
 ### 开通准备
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 ### 开通流程
 
@@ -12,23 +12,23 @@
 
 1、登录微信公众平台（登录账号需与工作台绑定的公众号主体一致） 登录入口：微信公众平台[https://mp.weixin.qq.com/](https://mp.weixin.qq.com/)
 
-![](../.gitbook/assets/image%20%28268%29.png)
+![](../.gitbook/assets/image%20%28274%29.png)
 
 2、创建小程序（内容营销小程序和全员营销小程序需分别创建两个小程序）
 
 1\) 小程序管理—添加—选择快速注册并认证小程序
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 2\) 复用资质 
 
 勾选运营者信息（勾选后小程序管理员即为公众号管理员，后续可跳过绑定小程序管理员步骤；不勾选，后续需进行小程序管理员绑定【步骤3】）— 勾选微信认证资质（不勾选无法复用企业主体资质，后续需花费300元进行微信认证）— 公众平台管理员扫码认证
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
-![](../.gitbook/assets/image%20%28368%29.png)
+![](../.gitbook/assets/image%20%28380%29.png)
 
 3\) 填写小程序账号信息
 
@@ -36,49 +36,49 @@ a.该账号信息用于登录小程序后台（登录入口：微信公众平台
 
 b.写邮箱用于接收小程序激活邮件（一个邮箱只能注册一个小程序）
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28187%29.png)
 
 3、激活小程序 
 
 1）点击收到邮件链接进行激活
 
-![](../.gitbook/assets/image%20%28163%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 2）绑定小程序管理员（小程序管理员和公众平台管理员可以不同）
 
-![](../.gitbook/assets/image%20%28252%29.png)
+![](../.gitbook/assets/image%20%28258%29.png)
 
 3）填写小程序基本信息
 
  微信小程序后台首页—填写小程序名称、服务类别等信息（服务类目需选择工具—效率/企业管理）
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 4、绑定公众号和小程序至客户自行创建的微信开放平台（若绑定兔展创建的微信开放平台跳过该步骤） 
 
 1）绑定公众号： 登陆微信开放平台（[https://open.weixin.qq.com/](https://open.weixin.qq.com/)）—管理中心—公众账号—绑定公众号
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 2）填写公众号的账号密码，点击下一步
 
-![](../.gitbook/assets/image%20%28177%29.png)
+![](../.gitbook/assets/image%20%28180%29.png)
 
 3）公众号管理员扫二维码
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%28179%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
 绑定小程序：
 
  1）登陆微信开放平台（[https://open.weixin.qq.com/](https://open.weixin.qq.com/)）—管理中心—小程序—绑定小程序
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 2）填写小程序的账号密码，点击下一步
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 3）小程序管理员扫二维码
 
@@ -92,5 +92,5 @@ b.写邮箱用于接收小程序激活邮件（一个邮箱只能注册一个小
 
 7、小程序审核发布成功
 
-![](../.gitbook/assets/image%20%28279%29.png)
+![](../.gitbook/assets/image%20%28286%29.png)
 
