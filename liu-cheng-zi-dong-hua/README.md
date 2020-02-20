@@ -1,6 +1,6 @@
 # 流程自动化
 
-![](../.gitbook/assets/image%20%28228%29.png)
+![](../.gitbook/assets/image%20%28229%29.png)
 
 ### 什么是流程自动化？
 

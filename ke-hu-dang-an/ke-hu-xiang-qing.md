@@ -4,7 +4,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 # 客户详情
 
-![](../.gitbook/assets/image%20%28261%29.png)
+![](../.gitbook/assets/image%20%28262%29.png)
 
 ### **1.基本信息**
 
@@ -102,7 +102,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 • 跟进记录详细内容：⽂字不超过200字、图⽚不超过4张；
 
-![](../.gitbook/assets/image%20%28289%29.png)
+![](../.gitbook/assets/image%20%28290%29.png)
 
 ### **5.行为记录**
 
@@ -116,7 +116,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 • 公众号的互动⾏为有展示顺序
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
 ### **6.触达记录**
 
@@ -134,7 +134,7 @@ description: 可在此页⾯查看某个客户的客户详情
 
 • 触达详情：展示触达的详细内容。根据消息类型不同，显示的触达详情也不同。
 
-![](../.gitbook/assets/image%20%28375%29.png)
+![](../.gitbook/assets/image%20%28376%29.png)
 
 ### **7.联系该客户**
 
@@ -142,5 +142,5 @@ description: 可在此页⾯查看某个客户的客户详情
 
 可触达的⽅式下拉列表中显示为蓝⾊，不可触达的⽅式置灰不可选。
 
-![](../.gitbook/assets/image%20%28252%29.png)
+![](../.gitbook/assets/image%20%28253%29.png)
 
