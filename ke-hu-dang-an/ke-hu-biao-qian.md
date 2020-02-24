@@ -42,7 +42,7 @@ description: >-
 
 【举例】90后、80后、00后
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 ### 2）行为标签（基于用户行为数据提取的模型标签）
 
@@ -62,7 +62,7 @@ description: >-
 
 【举例】可连接手机号客户、高度可连接客户
 
-![](../.gitbook/assets/image%20%28255%29.png)
+![](../.gitbook/assets/image%20%28257%29.png)
 
 #### 互动积极性
 
@@ -72,7 +72,7 @@ description: >-
 
 【举例】高度活跃客户、中度活跃客户、7天内高度活跃
 
-![](../.gitbook/assets/image%20%28259%29.png)
+![](../.gitbook/assets/image%20%28261%29.png)
 
 #### 转化意向度
 
@@ -86,7 +86,7 @@ description: >-
 
 【举例】高度意向客户、中度意向客户、公众号活跃客户
 
-![](../.gitbook/assets/image%20%28323%29.png)
+![](../.gitbook/assets/image%20%28326%29.png)
 
 #### 传播影响力
 
@@ -96,7 +96,7 @@ description: >-
 
 【举例】KOL、KOC
 
-![](../.gitbook/assets/image%20%28179%29.png)
+![](../.gitbook/assets/image%20%28180%29.png)
 
 ### 3）营销标签（基于用户与系统渠道发生交互提取的标签）
 
@@ -106,7 +106,7 @@ description: >-
 
 【举例】杭州门店（18）、A某（10）
 
-![](../.gitbook/assets/image%20%28301%29.png)
+![](../.gitbook/assets/image%20%28304%29.png)
 
 ### 4）内容标签（基于用户与营销内容发生交互提取的标签）
 
@@ -138,7 +138,7 @@ description: >-
 
 【举例】早读一族、夜猫一族
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 #### 运营标签
 
@@ -160,7 +160,7 @@ description: >-
 
 右上角导出Excel，维度如下
 
-![](../.gitbook/assets/image%20%28365%29.png)
+![](../.gitbook/assets/image%20%28368%29.png)
 
 ### 3）编辑
 
@@ -168,7 +168,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2876%29.png)
 
-![](../.gitbook/assets/image%20%28402%29.png)
+![](../.gitbook/assets/image%20%28405%29.png)
 
 ### 4）删除
 
