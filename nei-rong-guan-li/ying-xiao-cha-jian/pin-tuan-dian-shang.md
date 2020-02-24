@@ -4,7 +4,7 @@
 
 * 点击新建商品
 
-![](../../.gitbook/assets/image%20%28307%29.png)
+![](../../.gitbook/assets/image%20%28331%29.png)
 
 * 填写开团商品信息（皆为必填项）
 

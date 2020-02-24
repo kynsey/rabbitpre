@@ -6,15 +6,15 @@
 
        1 进入积分商城，在积分商品选项卡里，选择“积分商品”，进入积分商品的管理, 点击新增积分商品 
 
-![](../.gitbook/assets/image%20%28279%29.png)
+![](../.gitbook/assets/image%20%28281%29.png)
 
           2 输入积分商品基本信息：选择类型，商品，生效日期，角标，角标背景颜色 
 
-![](../.gitbook/assets/image%20%28375%29.png)
+![](../.gitbook/assets/image%20%28378%29.png)
 
            3 配置兑换条件：所需积分，可兑换数量，每人以及每日兑换数量，兑换规则
 
-![](../.gitbook/assets/image%20%28296%29.png)
+![](../.gitbook/assets/image%20%28299%29.png)
 
 二、积分商城订单查询与导出
 

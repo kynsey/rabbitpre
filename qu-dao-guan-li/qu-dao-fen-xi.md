@@ -6,7 +6,7 @@
 
 自有渠道及员工渠道（部门视角和员工视角），统计到的数据维度有实时浏览量、浏览人数、分享量、按钮点击量、按钮点击人数、实时表单量以及人均时长，支持导出数据
 
-![](../.gitbook/assets/image%20%28228%29.png)
+![](../.gitbook/assets/image%20%28247%29.png)
 
 {% hint style="warning" %}
 * 浏览量和表单量实时统计，其余数据每小时更新一次
@@ -17,7 +17,7 @@
 
 可按渠道类型或部门查看渠道数据分布情况，统计浏览量、浏览人数及分享量
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28290%29.png)
 
 {% hint style="warning" %}
 * 浏览量和分享量实时统计，浏览人数每小时更新一次
@@ -28,7 +28,7 @@
 
 展示渠道的趋势图
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 {% hint style="warning" %}
 * 浏览量和分享量实时统计，浏览人数每小时更新一次
@@ -39,7 +39,7 @@
 
 以自有渠道或员工渠道为单位进行渠道数据排行TOP20
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28158%29.png)
 
 {% hint style="warning" %}
 * 数据每小时更新一次
@@ -50,7 +50,7 @@
 
 扫码数据是针对自有渠道中的关注回复码统计的数据，统计的维度有扫码次数、扫码人数、关注人数、净增人数
 
-![](../.gitbook/assets/image%20%28224%29.png)
+![](../.gitbook/assets/image%20%28242%29.png)
 
 {% hint style="warning" %}
 时间筛选上最长为30天
