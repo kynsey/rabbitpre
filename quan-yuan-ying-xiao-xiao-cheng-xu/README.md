@@ -1,6 +1,6 @@
 # 全员营销小程序
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ### 自有渠道流量激活
 

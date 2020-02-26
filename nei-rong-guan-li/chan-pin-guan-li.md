@@ -16,9 +16,9 @@
 
 7 搜索：支持产品名称模糊搜索；
 
-![](../.gitbook/assets/image%20%28240%29.png)
+![](../.gitbook/assets/image%20%28244%29.png)
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 
 

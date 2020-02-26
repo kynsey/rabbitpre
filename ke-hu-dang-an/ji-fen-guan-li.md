@@ -8,42 +8,42 @@
 累计过期：当前所有用户累计已经过期的积分总额  
 累计消耗：当前所有用户累计消耗过的积分总额
 
-![](../.gitbook/assets/image%20%28237%29.png)
+![](../.gitbook/assets/image%20%28241%29.png)
 
 1 通用规则设置：支持积分有效期和积分名称 、积分攻略设置
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 1）点击“积分有效期”的设置，弹出积分有效期的弹出层
 
        选择 默认永久有效，即积分永远不会过期 选择 有效期，即从积分获取日起，在指定时间范围内有效，超过时间则积分失效，默认年份的下拉选择可支持 1-5年，日期为指定月份的日期。在每年的客户设置的指定日期里，自动执行积分失效的程序，计算当前企业所有用户获取的积分，系统后台自动计算当前企业，对用户在1年前的还未过期的积分设置过期。
 
-![](../.gitbook/assets/image%20%28347%29.png)
+![](../.gitbook/assets/image%20%28353%29.png)
 
 
 
 2）积分名称自定义，主要用于C端用户积分的展示，默认名称不超过5个字，在弹出框中点击“确认”，则保存积分  
 ![](http://wiki.tuzhanai.com/download/attachments/29310876/image2019-11-26_20-11-25.png?version=1&modificationDate=1574908707000&api=v2)
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 3）点击“积分攻略”的设置按钮，弹出积分设置的弹出层，在富文本框里填写相应的内容，点击“确认”按钮，保存成功
 
-![](../.gitbook/assets/image%20%28291%29.png)
+![](../.gitbook/assets/image%20%28296%29.png)
 
  2  自定义规则设置 
 
     1）新建规则
 
-![](../.gitbook/assets/image%20%28223%29.png)
+![](../.gitbook/assets/image%20%28227%29.png)
 
        2）设置规则基本信息：规则名称，生效日期，生效时间，每日次数，累计次数，每次积分，优先级
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](../.gitbook/assets/image%20%28242%29.png)
 
       3）设置规则条件：渠道来源，内容设置，行为特点，客户标签，基本资料
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 4）规则状态说明： 
 
