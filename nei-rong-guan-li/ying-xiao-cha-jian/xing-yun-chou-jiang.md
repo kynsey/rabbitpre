@@ -24,7 +24,7 @@ description: 幸运抽奖适用于店铺促销，公众号吸粉，品牌宣传�
 * 关注形式需重点注意
 
   * a.关注形式默认：关闭
-  * b.引导关注：需先上传企业二维码（即公众号二维码）c.强制关注：必须授权认证服务号（[查看详细教程](../../untitled/gong-zuo-tai-gong-zhong-hao-shou-quan.md)）
+  * b.引导关注：需先上传企业二维码（即公众号二维码）c.强制关注：必须授权认证服务号（[查看详细教程](../../untitled/gong-zuo-tai-gong-zhong-hao-shou-quan/)）
 
 ![](http://bbscdn.rabbitpre.com/data/attachment/forum/201904/04/102538pmj42021jeebb12z.png)
 
